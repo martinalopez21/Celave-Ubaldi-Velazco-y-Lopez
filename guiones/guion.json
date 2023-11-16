@@ -1,0 +1,121 @@
+{   "audio":"audios/audio.mp3",
+    "modelo":"modelos/tecno3.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":0,
+                "camara":[0 ,0 ,0 ],
+                "target":[-49 ,100, -190 ],
+                "nombre":"vista uno"
+           },
+           {
+               "tiempo":"00:01",
+               "duracion":2000,
+               "camara":[0 ,0, 0 ],
+               "target":[-60  ,100, -500 ],
+               "nombre":"vista dos"
+          },
+          {
+              "tiempo":"00:03",
+              "duracion":3000,
+              "camara":[0 ,0, -80 ],
+              "target":[-90  ,100, -400 ],
+              "nombre":"vista tres"
+         },
+         {
+             "tiempo":"00:06",
+             "duracion":4000,
+             "camara":[0 ,0, -100 ],
+             "target":[-90  ,100, -400 ],
+             "nombre":"vista cuatro"
+        },
+         {
+             "tiempo":"00:10",
+             "duracion":5000,
+             "camara":[-40 ,20, -120 ],
+             "target":[-20  ,100, -400 ],
+             "nombre":"vista cinco"
+        },
+        {
+            "tiempo":"00:15",
+            "duracion":5000,
+            "camara":[0 ,20, -120 ],
+            "target":[-20  ,100, -400 ],
+            "nombre":"vista seis"
+       },
+       {
+           "tiempo":"00:20",
+           "duracion":5000,
+           "camara":[0 ,20, -120 ],
+           "target":[-10  ,100, -400 ],
+           "nombre":"vista siete"
+      },
+      {
+          "tiempo":"00:25",
+          "duracion":10000,
+          "camara":[-10 ,30, -140 ],
+          "target":[0  ,100, -550 ],
+          "nombre":"vista ocho"
+     },
+     {
+         "tiempo":"00:55",
+         "duracion":10000,
+         "camara":[0 ,-30, -140 ],
+         "target":[-10  ,-120, -45 ],
+         "nombre":"vista nueve"
+    },
+    {
+        "tiempo":"01:05",
+        "duracion":10000,
+        "camara":[0 ,-30, -140 ],
+        "target":[-30  ,-120, -45 ],
+        "nombre":"vista diez"
+   },
+   {
+       "tiempo":"01:15",
+       "duracion":0,
+       "camara":[-350 ,25, 30 ],
+       "target":[-350  ,25, 10 ],
+       "nombre":"vista bosque"
+  },
+  {
+     "tiempo":"01:16",
+     "duracion":4000,
+     "camara":[-350 ,25, 30 ],
+     "target":[-350  ,25, 10 ],
+     "nombre":"vista bosque"
+},
+  {
+     "tiempo":"01:20",
+     "duracion":5000,
+     "camara":[-350 ,25, 0 ],
+     "target":[-350  ,25, 10 ],
+     "nombre":"vista puertas"
+},
+   {
+       "tiempo":"01:25",
+       "duracion":5000,
+       "camara":[-350 ,25, 0 ],
+       "target":[0  ,25, 10 ],
+       "nombre":"vista puertas gira"
+  },
+  {
+     "tiempo":"01:30",
+     "duracion":15000,
+     "camara":[-350 ,25, 0 ],
+     "target":[0  ,25, 20 ],
+     "nombre":"vista puertas gira"
+},
+{
+   "tiempo":"01:50",
+   "duracion":0,
+   "camara":[-600 ,40, -10 ],
+   "target":[0  ,0, 0 ],
+   "nombre":"vista puertas gira"
+}
+
+
+      ]
+}
